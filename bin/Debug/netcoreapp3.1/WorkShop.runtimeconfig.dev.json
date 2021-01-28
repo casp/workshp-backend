@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\casp\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\casp\\.nuget\\packages"
-    ]
-  }
-}
